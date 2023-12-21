@@ -15,3 +15,13 @@
 2) Обучить 2-3 различные модели машинного обучения, выбрать лучшую с метрикой roc_auc >= 0.85.  
 
 ## Стэк:
+
+`pandas`  
+`numpy`  
+`matplotlib`  
+`seaborn`  
+`phik`  
+`sklearn`  
+`pipeline`  
+`catboost`  
+`GridSearchCV`  
