@@ -16,12 +16,12 @@
 
 ## Стэк:
 
-`pandas`  
-`numpy`  
-`matplotlib`  
-`seaborn`  
-`phik`  
-`sklearn`  
-`pipeline`  
-`catboost`  
-`GridSearchCV`  
+`pandas`
+`numpy`
+`matplotlib`
+`seaborn`
+`phik`
+`sklearn`
+`pipeline`
+`catboost`
+`GridSearchCV`
